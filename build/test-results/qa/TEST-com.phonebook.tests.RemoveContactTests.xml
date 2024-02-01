@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.phonebook.tests.RemoveContactTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-01-21T16:20:51" hostname="DESKTOP-OS617JJ" time="1.783">
+  <properties/>
+  <testcase name="removeContactPositiveTest" classname="com.phonebook.tests.RemoveContactTests" time="1.783"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
